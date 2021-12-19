@@ -1,4 +1,6 @@
-# Linking D3 Charts and Adding Interactivity
+# Choropleth Map
+
+You can view my work at: https://avinash-choroplethmap.netlify.app/
 
 The purpose of this homework is to give you practice linking separate visualizations together in D3. By the end of this assignment you should learn how to:
 
